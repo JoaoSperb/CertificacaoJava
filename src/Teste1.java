@@ -11,6 +11,7 @@ public class Teste1{
         Pessoa p = new Pessoa();
         System.out.println(p.id);
         Pessoa p2 = new Pessoa();
+
         System.out.println(p2.id);
     }
 }
